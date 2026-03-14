@@ -30,12 +30,6 @@ header h2 {
     margin: 0;
 }
 
-header h3 {
-    font-size: 130%;
-    font-style: italic;
-    margin-left: 110px;
-    margin-top: 10px;
-}
 
 main {
     clear: left;
