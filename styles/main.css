@@ -9,7 +9,6 @@ body {
 
 a:hover, a:focus {
     font-style: italic;
-    color: var(--accent-color);
 }
 
 h1 { font-size: 150%; }
