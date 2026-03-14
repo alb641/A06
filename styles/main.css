@@ -18,6 +18,10 @@ h2 {
 }
 h3 { font-size: 105%; }
 
+header {
+    padding-left: 170px;
+    position: relative;
+
 header img {
     float: left;
     margin-right: 30px;
