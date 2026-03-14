@@ -27,6 +27,8 @@ header h2 {
     font-size: 170%;
     color: var(--accent-color);
     margin: 0;
+    margin-bottom: 0; 
+    margin-top: 10px;
 }
 
 header p {
