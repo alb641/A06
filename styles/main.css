@@ -48,8 +48,6 @@ main {
 footer p {
     text-align: center;
 }
-
-/* Step 29: Special class for the 75th year [cite: 71, 72] */
 .large {
     font-size: 125%;
 }
