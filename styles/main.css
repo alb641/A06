@@ -26,11 +26,14 @@ header img {
 header h2 {
     font-size: 170%;
     color: var(--accent-color);
-    padding-left: 110px;
     margin: 0;
 }
 
-
+header p {
+    font-size: 130%;
+    font-style: italic;
+    margin-top: 10px;
+}
 main {
     clear: left;
 }
