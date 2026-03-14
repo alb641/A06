@@ -26,17 +26,17 @@ h3 {
 }
 
 
-h2 {
+header h2 {
     font-size: 170%;
     text-indent: 30px;
 }
 
-h3 {
+header h3 {
     font-size: 130%;
     text-indent: 30px;
 }
 
-img {
+header img {
     float: left;
 }
 
